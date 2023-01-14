@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Brennan Malone Portfolio
 
-Make it your own! 
+Deployed site: https://brennan-malone-portfolio.netlify.app/ 
