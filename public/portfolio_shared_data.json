@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Brennan Malone",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Senior Infrastructure Engineer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/brennan-malone",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/brennan-malone-11b1b1159/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
