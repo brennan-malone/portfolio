@@ -1,119 +1,119 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Brennan Malone. I am an experienced IT professional who has been in the industry for about seven years. I love working with software and troubleshooting issues. I love to work and devote my time to projects. I will always bring energy to a team. My passion is about making a quality product, no matter what context. I enjoy the process of improvement and being proud of what I produce. I want this to reflect in my work environment as well.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Brennan Malone. I am an experienced IT professional who has been in the industry for about seven years. I love working with software and troubleshooting issues. I love to work and devote my time to projects. I will always bring energy to a team. My passion is about making a quality product, no matter what context. I enjoy the process of improvement and being proud of what I produce. I want this to reflect in my work environment as well.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Word Rummage",
+      "startDate": "2022",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/word-rummage/Screenshot4.png",
+        "images/portfolio/word-rummage/Screenshot5.png",
+        "images/portfolio/word-rummage/Screenshot6.png"
+      ],
+      "url": "https://github.com/Word-Rummage/Word-Rummage",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Word Rummage",
-        "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/word-rummage/Screenshot4.png",
-          "images/portfolio/word-rummage/Screenshot5.png",
-          "images/portfolio/word-rummage/Screenshot6.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          }
-        ]
-      },
-      {
-        "title": "301 Project",
-        "startDate": "2023",
-        "description": "Enter 301 Final project information",
-        "images": [
-          "images/portfolio/301-project/Placeholder.avif",
-          "images/portfolio/301-project/Placeholder.avif"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "401 Project",
-        "startDate": "2023",
-        "description": "Enter 401 Final project information",
-        "images": [
-          "images/portfolio/301-project/Placeholder.avif",
-          "images/portfolio/301-project/Placeholder.avif"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Maine Air National Guard",
-        "title": "Network Engineer",
-        "years": "3.2020 - present",
-        "mainTech": [
-          "Cisco Enterprise Solutions"
-        ],
-        "technologies": [
-          "TCP/IP",
-          "QoS",
-          "SIP",
-          "MicrosoftSQL",
-          "Active Directory",
-          "Microsoft Server 2016",
-          ".NET Core",
-          "Bash",
-          "Open BSD"
-        ]
-      },
-      {
-        "company": "United States Air Force",
-        "title": "Network Infrastructure",
-        "years": "03.2016 - 03.2020",
-        "mainTech": [
-          "Open BSD"
-        ],
-        "technologies": [
-          "Open BSD",
-          "SONET/ATM",
-          "Fiber",
-          "802.1x",
-          "HTTPS"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "301 Project",
+      "startDate": "2023",
+      "description": "Enter 301 Final project information",
+      "images": [
+        "images/portfolio/301-project/Placeholder.avif",
+        "images/portfolio/301-project/Placeholder.avif"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "401 Project",
+      "startDate": "2023",
+      "description": "Enter 401 Final project information",
+      "images": [
+        "images/portfolio/401-project/Placeholder.avif",
+        "images/portfolio/401-project/Placeholder.avif"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Maine Air National Guard",
+      "title": "Network Engineer",
+      "years": "3.2020 - present",
+      "mainTech": [
+        "Cisco Enterprise Solutions"
+      ],
+      "technologies": [
+        "TCP/IP",
+        "QoS",
+        "SIP",
+        "MicrosoftSQL",
+        "Active Directory",
+        "Microsoft Server 2016",
+        ".NET Core",
+        "Bash",
+        "Open BSD"
+      ]
+    },
+    {
+      "company": "United States Air Force",
+      "title": "Network Infrastructure",
+      "years": "03.2016 - 03.2020",
+      "mainTech": [
+        "Open BSD"
+      ],
+      "technologies": [
+        "Open BSD",
+        "SONET/ATM",
+        "Fiber",
+        "802.1x",
+        "HTTPS"
+      ]
+    }
+  ]
+}
