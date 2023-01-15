@@ -20,7 +20,7 @@ class Footer extends Component {
           <div className="row">
             <div className="col social-links">{networks}</div>
             <div className="col">
-              <div 
+              <div
                 onClick={() =>
                   this.props.applyPickedLanguage(
                     window.$primaryLanguage,
@@ -34,22 +34,6 @@ class Footer extends Component {
                   data-icon="twemoji-flag-for-flag-united-kingdom"
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
-                ></span>
-              </div>
-              <div 
-                onClick={() =>
-                  this.props.applyPickedLanguage(
-                    window.$secondaryLanguage,
-                    window.$primaryLanguageIconId
-                  )
-                }
-                style={{ display: "inline" }}
-              >
-                <span
-                  className="iconify language-icon"
-                  data-icon="twemoji-flag-for-flag-poland"
-                  data-inline="false"
-                  id={window.$secondaryLanguageIconId}
                 ></span>
               </div>
             </div>
