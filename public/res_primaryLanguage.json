@@ -19,7 +19,7 @@
           "images/portfolio/word-rummage/Screenshot5.png",
           "images/portfolio/word-rummage/Screenshot6.png"
         ],
-        "url": "",
+        "url": "https://github.com/Word-Rummage/Word-Rummage",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -66,16 +66,12 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }

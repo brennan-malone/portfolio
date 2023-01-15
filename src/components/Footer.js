@@ -21,12 +21,6 @@ class Footer extends Component {
             <div className="col social-links">{networks}</div>
             <div className="col">
               <div
-                onClick={() =>
-                  this.props.applyPickedLanguage(
-                    window.$primaryLanguage,
-                    window.$secondaryLanguageIconId
-                  )
-                }
                 style={{ display: "inline" }}
               >
                 <span
